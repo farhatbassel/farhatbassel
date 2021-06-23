@@ -1,5 +1,8 @@
--### Hi there 👋
+<h1 align="center"> Hi there 👋, I am Bassel Farhat </h1>
+<h2 align="center"> Astrophysicist keen on coding </h2>
 
+I am currently open to working on any project so feel free to contact me.
+You can reach me on this email: farhatbassel@tutanota.com
 <!--
 **farhatbassel/farhatbassel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
